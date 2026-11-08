@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Si usa este trabajo o sus datos, cite la referencia siguiente."
+title: "Populismo y accountability horizontal. Un estudio comparado del ciclo progresista en Argentina y Brasil durante el gobierno de Néstor Kirchner y el primer gobierno de Lula da Silva (2003-2007)"
+authors:
+  - family-names: "Avaca de Eyto"
+    given-names: "Denisse"
+  - family-names: "Spinelli"
+    given-names: "Claudio Andrés"
+date-released: 2026-11-08
+version: "2026.11"
+type: report
+institution:
+  name: "Universidad Católica de La Plata, Facultad de Derecho y Ciencias Políticas"
+license: CC-BY-4.0
