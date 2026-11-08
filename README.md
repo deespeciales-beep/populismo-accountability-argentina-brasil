@@ -38,7 +38,7 @@ El resultado es sensible a la codificación de los efectos argentinos y el traba
 | anexo | El anexo de instrumentos de relevamiento en PDF: fichas de corpus, episodios, oportunidades de control, matriz de gobierno e índice. |
 | datos | El instrumento en Excel, con las fichas, las citas que justifican cada código y las decisiones de codificación fechadas. |
 | corpus | La lista de las dieciocho piezas con fecha, fuente y enlace. |
-| documentos | Los documentos oficiales sobre los que se codificó: actas de la ONU, discursos presidenciales, normas y el Diario de Sesiones. Son documentos públicos de los organismos que los emiten. |
+| onu, discursos, normativa, congreso | Los documentos oficiales sobre los que se codificó: las actas de la Asamblea General de las Naciones Unidas, los discursos y mensajes presidenciales, las normas y el Diario de Sesiones. Son documentos públicos de los organismos que los emiten. |
 | codigo | El programa que recalcula el índice desde el Excel. |
 | referencias.md | La bibliografía completa con enlaces. Los libros y artículos con derechos de autor no se incluyen como archivo, sólo se enlazan. |
 
@@ -70,4 +70,4 @@ Avaca de Eyto, D. y Spinelli, C. A. (2026). Populismo y accountability horizonta
 
 ## Licencia
 
-El texto del trabajo, el anexo y los datos se publican bajo Creative Commons Atribución 4.0 Internacional (CC BY 4.0). El programa se publica bajo licencia MIT. Los documentos oficiales de la carpeta documentos pertenecen a los organismos que los emiten y se reproducen como documentos públicos.
+El texto del trabajo, el anexo y los datos se publican bajo Creative Commons Atribución 4.0 Internacional (CC BY 4.0). El programa se publica bajo licencia MIT. Los documentos oficiales de las carpetas onu, discursos, normativa y congreso pertenecen a los organismos que los emiten y se reproducen como documentos públicos.

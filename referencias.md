@@ -1,6 +1,6 @@
 # Referencias
 
-Bibliografía completa del trabajo. Los libros y artículos con derechos de autor no se incluyen como archivo; se enlazan cuando el enlace figura en la bibliografía del trabajo. Los documentos oficiales marcados con una ruta están en la carpeta documentos.
+Bibliografía completa del trabajo. Los libros y artículos con derechos de autor no se incluyen como archivo; se enlazan cuando el enlace figura en la bibliografía del trabajo. Los documentos oficiales marcados con una ruta están en las carpetas onu, discursos, normativa y congreso.
 
 ## Bibliografía
 
@@ -75,53 +75,53 @@ Gobierno de la Ciudad de Buenos Aires (s. f.). Resultados electorales. Año 2000
 
 Honorable Cámara de Diputados de la Nación (2005a). Orden del Día 2480. Comisión Parlamentaria Mixta Revisora de Cuentas de la Administración, dictamen del 25 de noviembre de 2004 (expediente 55-S.-2005).
 
-Honorable Cámara de Diputados de la Nación (2005b). Diario de Sesiones, 123º período, reunión 20ª, 7 de julio de 2005, pp. 217 y 513-514 (sanción 130, expediente 55-S.-2005). https://www4.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-123/diario_2005070720.pdf Archivo: documentos/congreso/Diario de Sesiones Diputados 7 julio 2005.pdf
+Honorable Cámara de Diputados de la Nación (2005b). Diario de Sesiones, 123º período, reunión 20ª, 7 de julio de 2005, pp. 217 y 513-514 (sanción 130, expediente 55-S.-2005). https://www4.hcdn.gob.ar/dependencias/dtaquigrafos/diarios/periodo-123/diario_2005070720.pdf Archivo: congreso/Diario de Sesiones Diputados 7 julio 2005.pdf
 
 Honorable Cámara de Diputados de la Nación (2007). Orden del Día 2401. Comisión Parlamentaria Mixta Revisora de Cuentas, dictamen del 9 de noviembre de 2006 (expediente 73-S.-2007).
 
 Honorable Cámara de Diputados de la Nación, Dirección de Información Parlamentaria (2025). Composición de la H.C.D.N. por bloque y género y Composición del H. Senado por bloque y género [cortes al 1 de marzo de cada año].
 
-Kirchner, N. (2003). Discurso ante la Asamblea Legislativa, 25 de mayo de 2003. Honorable Cámara de Diputados de la Nación. Archivo: documentos/discursos/Kirchner 2003 asuncion.pdf
+Kirchner, N. (2003). Discurso ante la Asamblea Legislativa, 25 de mayo de 2003. Honorable Cámara de Diputados de la Nación. Archivo: discursos/Kirchner 2003 asuncion.pdf
 
-Kirchner, N. (2004). Mensaje ante la Asamblea Legislativa, 1 de marzo de 2004. Diario de Sesiones, período 122. Archivo: documentos/discursos/Kirchner 2004 mensaje.pdf
+Kirchner, N. (2004). Mensaje ante la Asamblea Legislativa, 1 de marzo de 2004. Diario de Sesiones, período 122. Archivo: discursos/Kirchner 2004 mensaje.pdf
 
-Kirchner, N. (2005). Mensaje ante la Asamblea Legislativa, 1 de marzo de 2005. Honorable Cámara de Diputados de la Nación. Archivo: documentos/discursos/Kirchner 2005 mensaje.pdf
+Kirchner, N. (2005). Mensaje ante la Asamblea Legislativa, 1 de marzo de 2005. Honorable Cámara de Diputados de la Nación. Archivo: discursos/Kirchner 2005 mensaje.pdf
 
-Kirchner, N. (2006). Mensaje ante la Asamblea Legislativa, 1 de marzo de 2006. Honorable Cámara de Diputados de la Nación. Archivo: documentos/discursos/Kirchner 2006 mensaje.pdf
+Kirchner, N. (2006). Mensaje ante la Asamblea Legislativa, 1 de marzo de 2006. Honorable Cámara de Diputados de la Nación. Archivo: discursos/Kirchner 2006 mensaje.pdf
 
-Kirchner, N. (2007). Mensaje ante la Asamblea Legislativa, 1 de marzo de 2007 [versión taquigráfica]. Honorable Cámara de Diputados de la Nación. Archivo: documentos/discursos/Kirchner 2007 mensaje.pdf
+Kirchner, N. (2007). Mensaje ante la Asamblea Legislativa, 1 de marzo de 2007 [versión taquigráfica]. Honorable Cámara de Diputados de la Nación. Archivo: discursos/Kirchner 2007 mensaje.pdf
 
-Lula da Silva, L. I. (2003a). Pronunciamento do Presidente da República, Luiz Inácio Lula da Silva, na sessão solene de posse no Congresso Nacional, 1 de janeiro de 2003 [compilado de discursos de enero de 2003]. Secretaria de Imprensa e Divulgação, Presidência da República. Archivo: documentos/discursos/Lula 2003 discursos de enero.pdf
+Lula da Silva, L. I. (2003a). Pronunciamento do Presidente da República, Luiz Inácio Lula da Silva, na sessão solene de posse no Congresso Nacional, 1 de janeiro de 2003 [compilado de discursos de enero de 2003]. Secretaria de Imprensa e Divulgação, Presidência da República. Archivo: discursos/Lula 2003 discursos de enero.pdf
 
-Lula da Silva, L. I. (2003b). Apresentação. En Mensagem ao Congresso Nacional 2003. Presidência da República. Archivo: documentos/discursos/Lula 2003 Mensagem ao Congresso.pdf
+Lula da Silva, L. I. (2003b). Apresentação. En Mensagem ao Congresso Nacional 2003. Presidência da República. Archivo: discursos/Lula 2003 Mensagem ao Congresso.pdf
 
-Lula da Silva, L. I. (2004). Apresentação. En Mensagem ao Congresso Nacional 2004. Presidência da República. Archivo: documentos/discursos/Lula 2004 Mensagem ao Congresso.pdf
+Lula da Silva, L. I. (2004). Apresentação. En Mensagem ao Congresso Nacional 2004. Presidência da República. Archivo: discursos/Lula 2004 Mensagem ao Congresso.pdf
 
-Lula da Silva, L. I. (2005). Apresentação. En Mensagem ao Congresso Nacional 2005. Presidência da República. Archivo: documentos/discursos/Lula 2005 Mensagem ao Congresso.pdf
+Lula da Silva, L. I. (2005). Apresentação. En Mensagem ao Congresso Nacional 2005. Presidência da República. Archivo: discursos/Lula 2005 Mensagem ao Congresso.pdf
 
-Lula da Silva, L. I. (2006). Apresentação. En Mensagem ao Congresso Nacional 2006. Presidência da República. Archivo: documentos/discursos/Lula 2006 Mensagem ao Congresso.pdf
+Lula da Silva, L. I. (2006). Apresentação. En Mensagem ao Congresso Nacional 2006. Presidência da República. Archivo: discursos/Lula 2006 Mensagem ao Congresso.pdf
 
-Naciones Unidas, Asamblea General (2003a). Documentos oficiales, 58º período de sesiones, 7ª sesión plenaria, 23 de septiembre de 2003 (A/58/PV.7), discurso del Presidente de la República Federativa del Brasil, pp. 5-9. Archivo: documentos/onu/A58PV7.pdf
+Naciones Unidas, Asamblea General (2003a). Documentos oficiales, 58º período de sesiones, 7ª sesión plenaria, 23 de septiembre de 2003 (A/58/PV.7), discurso del Presidente de la República Federativa del Brasil, pp. 5-9. Archivo: onu/A58PV7.pdf
 
-Naciones Unidas, Asamblea General (2003b). Documentos oficiales, 58º período de sesiones, 11ª sesión plenaria, 25 de septiembre de 2003 (A/58/PV.11), discurso del Presidente de la República Argentina, pp. 7-10. Archivo: documentos/onu/A58PV11.pdf
+Naciones Unidas, Asamblea General (2003b). Documentos oficiales, 58º período de sesiones, 11ª sesión plenaria, 25 de septiembre de 2003 (A/58/PV.11), discurso del Presidente de la República Argentina, pp. 7-10. Archivo: onu/A58PV11.pdf
 
-Naciones Unidas, Asamblea General (2004a). Documentos oficiales, 59º período de sesiones, 3ª sesión plenaria, 21 de septiembre de 2004 (A/59/PV.3), discurso del Presidente de la República Federativa del Brasil, pp. 5-8. Archivo: documentos/onu/A59PV3.pdf
+Naciones Unidas, Asamblea General (2004a). Documentos oficiales, 59º período de sesiones, 3ª sesión plenaria, 21 de septiembre de 2004 (A/59/PV.3), discurso del Presidente de la República Federativa del Brasil, pp. 5-8. Archivo: onu/A59PV3.pdf
 
-Naciones Unidas, Asamblea General (2004b). Documentos oficiales, 59º período de sesiones, 4ª sesión plenaria, 21 de septiembre de 2004 (A/59/PV.4), discurso del Presidente de la República Argentina, pp. 28-31. Archivo: documentos/onu/A59PV4.pdf
+Naciones Unidas, Asamblea General (2004b). Documentos oficiales, 59º período de sesiones, 4ª sesión plenaria, 21 de septiembre de 2004 (A/59/PV.4), discurso del Presidente de la República Argentina, pp. 28-31. Archivo: onu/A59PV4.pdf
 
-Naciones Unidas (2005a). Statement by H.E. Mr. Luiz Inácio Lula da Silva, President of the Federative Republic of Brazil, at the High Level Plenary Meeting of the General Assembly, 15 de septiembre de 2005. https://www.un.org/webcast/summit2005/statements15/bra050915eng.pdf Archivo: documentos/onu/bra050915eng.pdf
+Naciones Unidas (2005a). Statement by H.E. Mr. Luiz Inácio Lula da Silva, President of the Federative Republic of Brazil, at the High Level Plenary Meeting of the General Assembly, 15 de septiembre de 2005. https://www.un.org/webcast/summit2005/statements15/bra050915eng.pdf Archivo: onu/bra050915eng.pdf
 
-Naciones Unidas, Asamblea General (2005b). Documentos oficiales, 60º período de sesiones, 4ª sesión plenaria (Reunión Plenaria de Alto Nivel), 14 de septiembre de 2005 (A/60/PV.4), discurso del Presidente de la República Argentina, pp. 23-25. Archivo: documentos/onu/A60PV4.pdf
+Naciones Unidas, Asamblea General (2005b). Documentos oficiales, 60º período de sesiones, 4ª sesión plenaria (Reunión Plenaria de Alto Nivel), 14 de septiembre de 2005 (A/60/PV.4), discurso del Presidente de la República Argentina, pp. 23-25. Archivo: onu/A60PV4.pdf
 
-Naciones Unidas, Asamblea General (2006a). Documentos oficiales, 61º período de sesiones, 10ª sesión plenaria, 19 de septiembre de 2006 (A/61/PV.10), discurso del Presidente de la República Federativa del Brasil, pp. 6-9. Archivo: documentos/onu/A61PV10.pdf
+Naciones Unidas, Asamblea General (2006a). Documentos oficiales, 61º período de sesiones, 10ª sesión plenaria, 19 de septiembre de 2006 (A/61/PV.10), discurso del Presidente de la República Federativa del Brasil, pp. 6-9. Archivo: onu/A61PV10.pdf
 
-Naciones Unidas, Asamblea General (2006b). Documentos oficiales, 61º período de sesiones, 13ª sesión plenaria, 20 de septiembre de 2006 (A/61/PV.13), discurso del Presidente de la República Argentina, pp. 4-8. Archivo: documentos/onu/A61PV13.pdf
+Naciones Unidas, Asamblea General (2006b). Documentos oficiales, 61º período de sesiones, 13ª sesión plenaria, 20 de septiembre de 2006 (A/61/PV.13), discurso del Presidente de la República Argentina, pp. 4-8. Archivo: onu/A61PV13.pdf
 
-Naciones Unidas, Asamblea General (2007). Documentos oficiales, 62º período de sesiones, 5ª sesión plenaria, 25 de septiembre de 2007 (A/62/PV.5), discurso del Presidente de la República Argentina, pp. 13-18. Archivo: documentos/onu/A62PV5.pdf
+Naciones Unidas, Asamblea General (2007). Documentos oficiales, 62º período de sesiones, 5ª sesión plenaria, 25 de septiembre de 2007 (A/62/PV.5), discurso del Presidente de la República Argentina, pp. 13-18. Archivo: onu/A62PV5.pdf
 
-Normativa argentina consultada en InfoLEG y en la Biblioteca Electrónica de la AFIP: Constitución Nacional (art. 85); leyes 24.937 (t.o. decreto 816/99), 25.561, 25.820, 25.827, 25.967, 25.972, 26.077, 26.078, 26.080, 26.122, 26.124, 26.183, 26.204 y 26.376; decreto 222/2003; Código Electoral Nacional (ley 19.945, t.o. decreto 2135/83). Archivos: documentos/normativa (leyes 25.561, 26.080, 26.122, 26.124, decreto 222/2003, Código Electoral Nacional).
+Normativa argentina consultada en InfoLEG y en la Biblioteca Electrónica de la AFIP: Constitución Nacional (art. 85); leyes 24.937 (t.o. decreto 816/99), 25.561, 25.820, 25.827, 25.967, 25.972, 26.077, 26.078, 26.080, 26.122, 26.124, 26.183, 26.204 y 26.376; decreto 222/2003; Código Electoral Nacional (ley 19.945, t.o. decreto 2135/83). Archivos: normativa (leyes 25.561, 26.080, 26.122, 26.124, decreto 222/2003, Código Electoral Nacional).
 
-Normativa brasileña consultada en el Portal da Legislação del Planalto y en el Congresso Nacional: Constituição Federal (arts. 45, 46, 58, 62, 73, 101, 103- B y 165), Lei 4.737/1965 (Código Eleitoral), Emenda Constitucional 32/2001, Emenda Constitucional 45, de 30 de dezembro de 2004, leis 10.837, de 16 de janeiro de 2004, 11.100, de 25 de janeiro de 2005, e 11.306, de 16 de maio de 2006 (leis orçamentárias anuais, Senado Federal, Portal LexML), Lei 4.320, de 17 de março de 1964 (art. 7), y registro de medidas provisórias 103/2003 a 342/2006. Archivos: documentos/normativa (Constituição Federal compilada, Lei 4.737).
+Normativa brasileña consultada en el Portal da Legislação del Planalto y en el Congresso Nacional: Constituição Federal (arts. 45, 46, 58, 62, 73, 101, 103- B y 165), Lei 4.737/1965 (Código Eleitoral), Emenda Constitucional 32/2001, Emenda Constitucional 45, de 30 de dezembro de 2004, leis 10.837, de 16 de janeiro de 2004, 11.100, de 25 de janeiro de 2005, e 11.306, de 16 de maio de 2006 (leis orçamentárias anuais, Senado Federal, Portal LexML), Lei 4.320, de 17 de março de 1964 (art. 7), y registro de medidas provisórias 103/2003 a 342/2006. Archivos: normativa (Constituição Federal compilada, Lei 4.737).
 
 Political Database of the Americas (s. f.). Argentina: elecciones de gobernadores 2007; Brasil: Câmara dos Deputados 1998 y gobernadores 2002. Georgetown University. https://pdba.georgetown.edu/Elecdata/
 
